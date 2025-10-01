@@ -1,8 +1,8 @@
 ## Olá, eu sou Moisés Ribeiro! 👋
 
-- 🔭 Atualmente sou estudante do curso de Ciência da Computação, estou no 4° período  
-- 🌱 Estudando HTML, CSS e JavaScript  
-- 📫 Contate-me no email: ribeiromoises166@gmail.com  
+- 🔭 Desenvolvedor Full Stack 
+- 🌱 Estudando HTML, CSS e JavaScript, Java, Spring Boot, SQL
+- 📫 Contate-me no email: ribeiromoises166@gmail.com ou moises.dev2504@gmail.com 
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/572b3bda-06da-49e8-825c-81404af835b9" alt="java" width="40" height="40"/>
